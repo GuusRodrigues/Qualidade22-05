@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Arquivos de log
+*.log
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do pytest
+.cache/
+.pytest_cache/
+
+# Arquivos do GitHub Codespaces (caso use no futuro)
+*.code-workspace
