@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 blinker==1.9.0
 click==8.2.1
 colorama==0.4.6
@@ -10,3 +11,17 @@ packaging==25.0
 pluggy==1.6.0
 pytest==8.3.5
 Werkzeug==3.1.3
+=======
+blinker==1.9.0
+click==8.2.1
+colorama==0.4.6
+Flask==3.1.1
+iniconfig==2.1.0
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+packaging==25.0
+pluggy==1.6.0
+pytest==8.3.5
+Werkzeug==3.1.3
+>>>>>>> d11eca09e5e3a608d896603715c943acc26c0d8f
